@@ -29,7 +29,7 @@
 
 2. Download and install Terraform ([link](https://www.terraform.io/downloads.html))
 
-> Installation istructions can be found here ([link](https://learn.hashicorp.com/terraform/getting-started/install.html))
+> Installation instructions can be found here ([link](https://learn.hashicorp.com/terraform/getting-started/install.html))
 
 4. Use any text editor to change the number of containers you want to run by changing
 
@@ -57,14 +57,14 @@ You will now have some containers running in Azure.
 
 
 **Extra**
-> If you would like to use another image (other than ours) just change as show below to any image stored on docker hub.
+> If you would like to use another image (other than ours) just change as shown below to any image stored on docker hub.
 > 
 > 		`image  = "gabbi68/folding-at-home-kth`  to 
 > 
 >      image = "dockerhub-user/docker-image
 
 
-## Discription
+## Description
 
 
 Folding@home is a way everyone can help combat COVID-19. We want to lower the bar of entry for folding@home so that as many as possible can help to contribute to the research of COVID-19. Our idea is to create a docker image and terraform deployment (for Azure) to make it as easy as possible to start folding@home and also to make the user be able to decide how much of the processing power of their computer they want to contribute with. This would make it possible for people that have some spare money or a business account on Azure to quickly deploy as many instances of folding at home as they want. Without having to have all the nectary equipment at home.
