@@ -23,7 +23,7 @@
 ## How to 
 
 
-1. Download and install Azure CLI ([link](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest))   "
+1. Download and install Azure CLI ([link](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest))
 
 > For Windows there no need any further configuration, for Mac/Linux (see [link](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest))
 
