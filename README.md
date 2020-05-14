@@ -1,4 +1,4 @@
-![Terraform](https://github.com/Gabbi68/folding-at-home-kth/workflows/Terraform/badge.svg)
+![Docker Image CI](https://github.com/Gabbi68/folding-at-home-kth/workflows/Docker%20Image%20CI/badge.svg) ![Terraform](https://github.com/Gabbi68/folding-at-home-kth/workflows/Terraform/badge.svg)
 
 # COVID-19 - Folding@home for Azure
 
